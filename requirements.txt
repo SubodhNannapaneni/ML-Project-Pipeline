@@ -6,5 +6,10 @@ scikit-learn
 xgboost
 catboost
 dill
-pickle
+azure.ai.ml
+mlflow
+psutil
+azureml-mlflow
+tqdm
+fsspec
 #-e .
